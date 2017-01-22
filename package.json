@@ -6,6 +6,13 @@
   "scripts": {
     "test": "mocha --reporter spec"
   },
+  "bugs": {
+    "url": "https://github.com/ishantiw/path-contents/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ishantiw/path-contents"
+  },
   "author": "Ishan Tiwari <ishan210788@gmail.com> (http://github.com/ishantiw)",
   "license": "ISC",
   "devDependencies": {
