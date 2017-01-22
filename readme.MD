@@ -2,7 +2,7 @@ Path content explorer
 
 This module helps you to find all the directories and files under the given target path with their full paths
 
-For any clarifications please contact [Ishan](ishantiw.github.io)
+For any clarifications please contact [Ishan](http://ishantiw.github.io)
 
 ## Installation
 
