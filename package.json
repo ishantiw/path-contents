@@ -1,0 +1,16 @@
+{
+  "name": "path-contents",
+  "version": "1.0.7",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "author": "Ishan Tiwari <ishan210788@gmail.com> (http://github.com/ishantiw)",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0",
+    "mock-fs": "^3.12.1"
+  }
+}
