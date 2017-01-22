@@ -3,6 +3,12 @@
   "version": "1.0.12",
   "description": "To get details of all the files and folder for the given target path",
   "main": "index.js",
+  "keywords": [
+    "fs",
+    "file system",
+    "path",
+    "folders and subfolders"
+  ],
   "scripts": {
     "test": "mocha --reporter spec"
   },
