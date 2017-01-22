@@ -1,6 +1,6 @@
 {
   "name": "path-contents",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "To get details of all the files and folder for the given target path",
   "main": "index.js",
   "scripts": {
