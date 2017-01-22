@@ -1,7 +1,7 @@
 {
   "name": "path-contents",
   "version": "1.0.7",
-  "description": "",
+  "description": "To get details of all the files and folder for the given target path",
   "main": "index.js",
   "scripts": {
     "test": "mocha --reporter spec"
