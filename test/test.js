@@ -34,7 +34,7 @@ describe('#Check all files and folders', function() {
 
     it('check all the folder/subfolders', function() {
       let countDirs = result.dirs.length;
-      expect(result.dirs.length).to.equal(3);
+      expect(result.dirs.length).to.equal(2);
       mock.restore();
     })
 
