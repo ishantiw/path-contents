@@ -35,7 +35,7 @@ try {
   });
 
   return pathContent[0];
-  
+
 } catch(err) {
     return new Error('Error occured: '+err);
   }

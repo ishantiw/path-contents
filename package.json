@@ -1,7 +1,7 @@
 {
   "name": "path-contents",
   "version": "1.0.14",
-  "description": "To get details of all the files and folder for the given target path",
+  "description": "To get paths of all the files and folder under the given target path synchronously",
   "main": "index.js",
   "keywords": [
     "fs",
