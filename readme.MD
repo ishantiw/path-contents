@@ -1,6 +1,6 @@
 # Path content explorer
 
-This module helps you to find all the directories and files under the given target path with their full paths synchronously. To retrieve details asynchronously please use [path-contents](https://www.npmjs.com/package/path-contents-asynch)
+This module helps you to find all the directories and files under the given target path with their full paths synchronously. To retrieve details asynchronously please use [path-contents-asynch](https://www.npmjs.com/package/path-contents-asynch)
 
 For any clarifications please contact [Ishan](http://ishantiw.github.io)
 

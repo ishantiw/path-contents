@@ -1,6 +1,6 @@
 {
   "name": "path-contents",
-  "version": "1.0.15",
+  "version": "1.1.0",
   "description": "To get paths of all the files and folder under the given target path synchronously",
   "main": "index.js",
   "keywords": [
